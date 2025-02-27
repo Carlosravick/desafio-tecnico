@@ -1,6 +1,4 @@
-# Programa para calcular o percentual de faturamento por estado
 
-# Definição dos faturamentos por estado
 faturamento = {
     "SP": 67836.43,
     "RJ": 36678.66,
